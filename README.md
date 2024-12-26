@@ -1,21 +1,24 @@
 # Security Bot
-<br>
-<br>
-<br>
-
-
-
 
 # Installation
 
-- To Download Modules
+- To clone this repo
+```
+
+git clone https://github.com/RayDev07/Security-Bot.git
+
+cd Security-Bot
+
+```
+
+- To install modules
 ```
 
 npm i
 
 ```
 
-- To Run the bot
+- To run the bot
 ```
 
 node sharder.js

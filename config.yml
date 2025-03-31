@@ -1,8 +1,8 @@
 # @format
 bot:
   ID: '1356380194306523300'
-  TOKEN: ''
-  PREFIX: ';'
+  TOKEN: '252352352'
+  PREFIX: '-'
   EMBED_COLOR: '#ff0000'
   OWNERS: ['1306642651658981459']
   MONGO: ''

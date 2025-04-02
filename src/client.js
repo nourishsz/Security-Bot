@@ -70,13 +70,13 @@ class CodeX extends Client {
     this.token = this.config.token;
     this.prefix = this.config.prefix;
     this.owners = this.config.owners;
-    this.web_cmd = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
-    this.web_err = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30.";
-    this.web_join = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_cmd = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ";
+    this.web_err = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ.";
+    this.web_join = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ";
     this.web_leave = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
-    this.web_np = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
-    this.web_bl = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
-    this.web_gban = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_np = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ";
+    this.web_bl = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ";
+    this.web_gban = "https://discord.com/api/webhooks/1356995761526804590/MBwTnMtCtvHzCWWKFLDvQVVloX8hxCWkc6-71NrkJtWFq5usOE1KmAMaXbp38S6QjLKQ";
 
     this.color = this.config.embedColor;
     this.support = this.config.links.support;

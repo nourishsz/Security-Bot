@@ -6,7 +6,7 @@ bot:
   EMBED_COLOR: '#ff0000'
   OWNERS: ['1306642651658981459']
   MONGO: 'mongodb+srv://codex-in2:codex-in2@codex-in2.gjv2c.mongodb.net/?retryWrites=true&w=majority'
-links:
+links: 'https://discord.gg/RNCZcqUrtr'
   INVITE: 'https://discord.com/oauth2/authorize?client_id=1356984949999276213&permissions=8&integration_type=0&scope=bot'
   SUPPORT: 'https://dsc.gg/codexdev'
   VOTE: 'https://top.gg/bot/1356984949999276213/vote'

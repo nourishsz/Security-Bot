@@ -70,13 +70,13 @@ class CodeX extends Client {
     this.token = this.config.token;
     this.prefix = this.config.prefix;
     this.owners = this.config.owners;
-    this.web_cmd = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
-    this.web_err = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb.";
-    this.web_join = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
-    this.web_leave = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
-    this.web_np = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
-    this.web_bl = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
-    this.web_gban = "https://discord.com/api/webhooks/1281648413766582302/PeTn8tiimwpLfdx23H6rpo6f9HSKebBZClcvmsZ4-DmvaJgkp2E6kNVEZhRkLh4OJpfb";
+    this.web_cmd = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_err = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30.";
+    this.web_join = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_leave = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_np = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_bl = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
+    this.web_gban = "https://discord.com/api/webhooks/1356986724718346261/Y9VL4_lQxWLC8Cu6kRjAMHWgQt82csOtiNZgLNDrKj-jgkE7oWzJyGUmqzAvA2TqIL30";
 
     this.color = this.config.embedColor;
     this.support = this.config.links.support;

@@ -10,3 +10,7 @@ links:
   INVITE: 'https://discord.com/oauth2/authorize?client_id=1357001065303642212&permissions=8&integration_type=0&scope=bot'
   SUPPORT: 'https://dsc.gg/codexdev'
   VOTE: 'https://top.gg/bot/1356984949999276213/vote'
+
+  const express = require('express')
+const app = express()
+const port = process.env.PORT || 8080;
